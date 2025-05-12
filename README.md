@@ -7,11 +7,11 @@
 
 ## 🧑‍💻 About Me
 
-- 👨‍💻 Flutter & Firebase developer  
+- 👨‍💻 Android, Windows and Web developer  
 - 🔐 Passionate about secure, scalable mobile apps  
 - 🌍 Based in Dhaka  
 - 💼 Available for freelance/contract/remote job opportunities  
-- 🛠 Tech Stack: `Flutter`, `Firebase`, `Node.js`, `Express.js`, `MySQL`, `React`, `Dart`, `REST`, `Git`
+- 🛠 Tech Stack: `Flutter`, `Firebase`, `Node.js`, `Express.js`, `MySQL`, `React`, `Dart`, `Django`, `python`, `REST`, `Git`
 
 ---
 
